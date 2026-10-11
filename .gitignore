@@ -1,0 +1,6 @@
+prompt.txt
+saved_data/
+__pycache__/
+ytfinance_equity_downloader_v2.py
+*v2.py
+cached_index_symbols.json
